@@ -2,7 +2,7 @@
 
 **Effective Date:** September 17, 2026  
 **Developer:** Tshiamo Jantjie  
-**Contact:** tshiajan@gmail.com  
+**Contact:**janaire.dev@gmail.com  
 
 Thank you for playing **Rope Untangle Puzzle** ("the Game", "we", "our", or "us"). We respect your privacy and are committed to protecting it. This Privacy Policy outlines our practices regarding information collection, usage, and disclosure when you play our game.
 
